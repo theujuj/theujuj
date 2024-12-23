@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ujwal Patil</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bluepeople.com%2Fsoftware-developement-practical-principles%2F&psig=AOvVaw3tGTAJ3wqzz3YSytbbRd4e&ust=1735072151435000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNC16dPdvooDFQAAAAAdAAAAABAp">
+<img src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w625">
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
