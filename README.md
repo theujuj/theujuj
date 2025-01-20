@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ujwal Patil</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w625">
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
